@@ -1,8 +1,12 @@
 # RubyOnRails-Twitter-Bootstrap
 ![][1]
+-----------------
 ![][2]
+-----------
 ![][3]
+----------
 ![][4]
+
 
 [1]: https://github.com/mehmetdik/RubyOnRails-Twitter-Bootstrap/blob/master/img/1.png
 [2]: https://github.com/mehmetdik/RubyOnRails-Twitter-Bootstrap/blob/master/img/2.png
